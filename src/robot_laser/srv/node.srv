@@ -1,0 +1,7 @@
+int64 cRow
+int64 cCol
+---
+int64 nRow
+int64 nCol
+bool isNext
+bool isComplete 

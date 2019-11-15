@@ -37,7 +37,7 @@ Assumptions:
 	* robot2_map1.launch: map1_6_10.txt with 2 robots
 	* robot2_map2.launch: map2_8_10.txt with 2 robots
 	* robot3_map2.launch: map2_8_10.txt with 3 robots
-        * robot3_map2.launch: map2_8_10.txt with 4 robots
+	* robot4_map2.launch: map2_8_10.txt with 4 robots
 	* rviz_test.launch  : for loading robots in rviz 
 * src/
 	* central_server.cpp: advertises two services "node_info" and "node_init"
